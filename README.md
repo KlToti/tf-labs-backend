@@ -25,3 +25,5 @@ __10.__ relaunch the initialization
 __11.__ Create a .gitignore
 
 __12.__ Push your changes
+
+Look [this tutorial](https://github.com/cloudreach/talent-academy/blob/main/03_terraform.md#step) for details.
